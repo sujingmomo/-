@@ -1,0 +1,7 @@
+{
+  "name": "Lumière de Noël - Luxury Christmas Experience",
+  "description": "A high-fidelity WebGL Christmas tree experience controlled by hand gestures, featuring luxury aesthetics, particle systems, and photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
